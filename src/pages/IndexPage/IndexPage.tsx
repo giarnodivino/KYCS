@@ -19,7 +19,7 @@ export const IndexPage: FC = () => {
               before={<Image src={tonSvg} style={{ backgroundColor: '#007AFF' }}/>}
               subtitle="Connect your TON wallet"
             >
-              TON Connect
+              Log in with TON Connect
             </Cell>
           </Link>
         </Section>
